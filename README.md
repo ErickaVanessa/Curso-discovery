@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://app.rocketseat.com.br/discover/certificates">
-    <img height="300px" alt="Certificado Discover Conectar" src="">
+    <img height="300px" alt="Certificado Discover Conectar" src="./images/certificate.pdf">
   </a>
   <p>Código de validação: b945b911-2dad-4e87-9556-212748eda898</p>
   <br>
