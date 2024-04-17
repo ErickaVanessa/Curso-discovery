@@ -1,0 +1,64 @@
+body{
+    
+    border: 8px;
+}
+
+
+#container img{
+    width: 900px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    left: 50px;
+
+}
+
+h1{
+position: relative;
+left: 400px;
+top: 10px;
+
+}
+
+#container figcaption{
+    position: relative;
+    left: 600px;
+}
+
+h2{
+position: relative;
+left: 300px;
+top: 10px;
+}
+
+
+h3{
+    position: relative;
+left: 300px;
+top: 10px;
+}
+
+footer{
+    position: relative;
+    left: 500px;
+    top: 80px;
+}
+
+ul li{
+    position: relative;
+    left: 100px;
+    top: 10px;
+}
+
+ol li{
+    position: relative;
+    left: 100px;
+    top: 10px;
+}
+
+p{
+    position: relative;
+    left: 200px;
+    top: 10px;
+}
+

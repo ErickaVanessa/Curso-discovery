@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <header>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>Documento</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+  </header>
+
+  <body
+    class="justify-center flex items-center flex-col bg-purple-100 h-screen"
+  >
+    <button id="openModal" class="bg-purple-700 text-white py-2 px-4 rounded">
+      Abrir janela.
+    </button>
+
+    <div
+      class="modal-wrapper fixed big-gray-500 w-screen h-screen flex items-center justify-center"
+    >
+      <div class="p-8 text-center rounded bg-white">tecla ESC para fechar</div>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
