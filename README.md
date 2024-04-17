@@ -26,18 +26,18 @@
 
 <div align="center">
   <a href="https://app.rocketseat.com.br/discover/certificates">
-    <img height="300px" alt="Certificado Discover Conectar" src="./certificado/certificate (2).pdf">
+    <img height="300px" alt="Certificado Discover Conectar" src="./images/certificate (2).pdf">
   </a>
   <p>Código de validação: b945b911-2dad-4e87-9556-212748eda898</p>
   <br>
   <a href="https://app.rocketseat.com.br/discover/certificates">
-    <img height="300px" alt="Certificado Discover Fundamentar" src="./certificado/certificate.pdf">
+    <img height="300px" alt="Certificado Discover Fundamentar" src="./images/certificate.pdf">
   </a>
   <p>Código: 97673bb3-2d55-4b4b-a859-6b8b488e91e3</p>
 <br>
 
 <a href="https://app.rocketseat.com.br/discover/certificates">
-  <img height="300px" alt="Certificado Discover Especializar" src="./certificado/certificate (1).pdf">
+  <img height="300px" alt="Certificado Discover Especializar" src="./images/certificate (1).pdf">
 
 </a>
 </div>
