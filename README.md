@@ -22,13 +22,6 @@
   <strong height="50" width="60">&nbsp; SQL &nbsp;</strong>
 </div>
 
-## Certificados
-
-<div align="center">
-  
-<img src="https://app.rocketseat.com.br/certificates/add4e0eb-495e-497e-be47-8ea26df70a70" alt="Logo da Minha Empresa">
-</div>
-
 ## Anotações
 
 <div align="center"><br>
